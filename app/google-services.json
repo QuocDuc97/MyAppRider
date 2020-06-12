@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "788775287991",
+    "firebase_url": "https://demoapp-98c6f.firebaseio.com",
+    "project_id": "demoapp-98c6f",
+    "storage_bucket": "demoapp-98c6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788775287991:android:b55b51b838c4812f1fa132",
+        "android_client_info": {
+          "package_name": "com.example.appdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788775287991-njaqsmhqpbi2dsvsh6odi4pa5cs2drkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appdemo",
+            "certificate_hash": "51733ff86ca3f1e5ce5599e57bf0886f25065cd9"
+          }
+        },
+        {
+          "client_id": "788775287991-irg2a171mbjeuth61ere5jhqtrsmc8r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYAmpqkZdW1drutGUN-SzZefpN3S3vIhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788775287991-irg2a171mbjeuth61ere5jhqtrsmc8r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788775287991:android:563191ed9011309c1fa132",
+        "android_client_info": {
+          "package_name": "com.example.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788775287991-tcstbspbf9v84rqf3ijfpienore3bo93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxi",
+            "certificate_hash": "51733ff86ca3f1e5ce5599e57bf0886f25065cd9"
+          }
+        },
+        {
+          "client_id": "788775287991-irg2a171mbjeuth61ere5jhqtrsmc8r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYAmpqkZdW1drutGUN-SzZefpN3S3vIhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788775287991-irg2a171mbjeuth61ere5jhqtrsmc8r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788775287991:android:96bbf5743fa302f31fa132",
+        "android_client_info": {
+          "package_name": "com.example.taxirider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788775287991-ojt2omqu5gati9r9b5mbr3dh9pm3onsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxirider",
+            "certificate_hash": "e29cbd85c9dc7f5dedb819ff20040c0b92792af8"
+          }
+        },
+        {
+          "client_id": "788775287991-irg2a171mbjeuth61ere5jhqtrsmc8r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYAmpqkZdW1drutGUN-SzZefpN3S3vIhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788775287991-irg2a171mbjeuth61ere5jhqtrsmc8r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

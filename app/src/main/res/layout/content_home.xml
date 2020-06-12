@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/app_bar_home">
+
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Home">
+    </fragment>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_alignParentBottom="true"
+            app:cardElevation="10dp"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imdExpand"
+                    android:layout_alignParentRight="true"
+                    android:src="@android:drawable/arrow_up_float"
+                    />
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btnRequest"
+                    android:text="Pick_request"
+                    android:layout_margin="10dp"
+                    android:src="@android:drawable/arrow_up_float"
+                    />
+
+
+            </RelativeLayout>
+            
+            
+        </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+</RelativeLayout>
